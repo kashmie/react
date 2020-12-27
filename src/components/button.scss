@@ -1,0 +1,14 @@
+.basic-btn {
+	padding: 10px 32px;
+	border-radius: 18px !important;
+	border: 1px;
+}
+
+button:focus {
+	outline: 0px dotted;
+	outline-width: 0px;
+}
+
+.btn-basic:hover {
+	background-color: rgb(74, 162, 126) !important;
+}

@@ -1,0 +1,16 @@
+body {
+	font-family: Roboto !important;
+}
+
+.btn-basic {
+	background: rgba(255, 255, 255, 0.2) !important;
+}
+
+section {
+	padding-top: 40px;
+}
+@import "home.scss";
+@import "fonts.scss";
+
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
