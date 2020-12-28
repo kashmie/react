@@ -4,7 +4,7 @@ const HomeSectionFourth = () => {
 	return (
 		<div className="container pt-5">
 			<div className="row ">
-				<div className="col-sm-12	col-md-8	col-lg-8	col-xl-8">
+				<div className="col-sm-12	col-md-12	col-lg-8	col-xl-8">
 					<div className="row">
 						<div className="col-sm-12	col-md-6	col-lg-6	col-xl-6">
 							<svg className="icon-nion py-1"></svg>
@@ -56,7 +56,7 @@ const HomeSectionFourth = () => {
 						</div>
 					</div>
 				</div>
-				<div className="col-sm-12	col-md-4	col-lg-4	col-xl-4  ">
+				<div className="col-sm-12	col-md-12	col-lg-4	col-xl-4  ">
 					<div className="interface-image"></div>
 				</div>
 			</div>
